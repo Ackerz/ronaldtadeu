@@ -110,3 +110,7 @@
   <a href="#" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 </p>  
+
+<h1 align="center">Meus Status no Github</h1>
+
+![Metrics](https://metrics.lecoq.io/ronaldtadeu?template=terminal&config.timezone=America%2FSao_Paulo)
