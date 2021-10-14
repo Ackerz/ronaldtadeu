@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  
+  Ola me chamo Ronald. nesse git vocês visualizarão diversos projetos que eu criei ao longo de minha carreira como programador. Focado em PHP e nodeJS
 </p>
 
 <p align="left">
