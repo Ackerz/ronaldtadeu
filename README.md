@@ -112,4 +112,7 @@
 
 <h1 align="center">Meus Status no Github</h1>
 
-![Metrics](https://metrics.lecoq.io/ronaldtadeu?template=terminal&base.community=0&base.repositories=0&base.metadata=0&config.timezone=America%2FSao_Paulo)
+ <div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ronaldtadeu&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldtadeu&layout=compact&langs_count=7&theme=dark"/>
+</div>
