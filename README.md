@@ -113,4 +113,4 @@
 
 <h1 align="center">Meus Status no Github</h1>
 
-![Metrics](https://metrics.lecoq.io/ronaldtadeu?template=terminal&config.timezone=America%2FSao_Paulo)
+![Metrics](https://metrics.lecoq.io/ronaldtadeu?template=terminal&base.community=0&base.repositories=0&base.metadata=0&config.timezone=America%2FSao_Paulo)
