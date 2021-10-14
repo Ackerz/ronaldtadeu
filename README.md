@@ -96,7 +96,7 @@
 <p align="left">
   💌 Caso queira entrar em contato comigo: ⤵️
 </p>
-
+asd
 <p align="left">
   <a href="#" alt="Gmail">
   <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white" /></a>
